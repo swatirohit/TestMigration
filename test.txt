@@ -1,1 +1,2 @@
 learning git 
+Commit done and pushing now modifying file
